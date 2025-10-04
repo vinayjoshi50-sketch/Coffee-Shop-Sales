@@ -39,7 +39,8 @@ Also another reason for Fridays being the busiest might came from the footfalls 
 4.	 Coffee (39%) is the most sold category followed by Tea (28%) and bakery (12%), also the Barista Expresso (Coffee) is the highest revenue product.
 Also, Barista coffee and gourmet brewed coffee are the top contributors in the coffee category, they are also the Top 3 Revenue generators while brewed black tea and brewed chai tea are the top contributors in the Tea Category, they also feature in th Top-5 overall Revenue generators of all time.
 5.	Regular and Large order size are the most preferred although Regular sizes are slightly more common(31%) .
-6.	To Increase the Revenue One can :       
+
+6.	To increase the revenue the store should :       
 
 
       ☕ 1. Capitalize on Peak Hours (6 AM – 10 AM)
