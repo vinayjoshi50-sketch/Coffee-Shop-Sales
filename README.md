@@ -12,7 +12,6 @@ This Project Involves:
 
 Objectives 🔍
 
-To Answer the following Questions:
 
 1.	How have Sales trended over time?
 2.	Which days of the week tend to be busiest, and why do you think that's the case?
@@ -23,7 +22,11 @@ To Answer the following Questions:
 7.	What changes would you suggest in order to increase revenue? 
 
 
+
+
 ![Coffee Sales Dashboard](Coffee%20Sales%20Dashboard.png)
+
+
 
 
 Recommendations 💡
@@ -39,24 +42,24 @@ Also, Barista coffee and gourmet brewed coffee are the top contributors in the c
 6.	To Increase the Revenue One can :       
 
 
-  ☕ 1. Capitalize on Peak Hours (6 AM – 10 AM)
-  •	Introduce “Morning Rush Combos”: Bundle coffee + bakery at a slight discount to boost average order value and also to move bakery items.
-  •	Express Lane for Regulars: Speed up service for frequent morning customers with pre-order or loyalty app features.
-  •	Office Tie-ups: Offer subscription-based coffee delivery to nearby firms for their employees.
-
-  📅 2. Weekend Optimization
-  •	Friday Specials: Launch limited-time gourmet brews or seasonal flavors only on Fridays to drive excitement.
-  •	Sunday Family Packs: Counter mall/theater competition by offering group deals (e.g., 4 drinks + 2 bakery items at a bundled price).
-  •	Geo-targeted Promotions: Push Sunday offers to residential areas via SMS or app notifications.
-
-  🛠️  3. Operational Tweaks
-  •	Staffing Alignment: Increase staff during 6–10 AM and on Fridays to reduce wait times and improve experience.
-  •	Inventory Planning: Ensure top-selling items (Barista Espresso, brewed teas) are always stocked during peak hours.
-  
-  📊 4. Order Size Strategy
-  •	Upgrade Nudges: Use digital screens or app prompts to suggest upgrading from Regular to Large for just $1 more.
-  •	Combo Incentives: “Large + Add-on” deals (e.g., Large Coffee + Pastry at a bundled price) to increase ticket size.
-  
+      ☕ 1. Capitalize on Peak Hours (6 AM – 10 AM)
+      •	Introduce “Morning Rush Combos”: Bundle coffee + bakery at a slight discount to boost average order value and also to move bakery items.
+      •	Express Lane for Regulars: Speed up service for frequent morning customers with pre-order or loyalty app features.
+      •	Office Tie-ups: Offer subscription-based coffee delivery to nearby firms for their employees.
+    
+      📅 2. Weekend Optimization
+      •	Friday Specials: Launch limited-time gourmet brews or seasonal flavors only on Fridays to drive excitement.
+      •	Sunday Family Packs: Counter mall/theater competition by offering group deals (e.g., 4 drinks + 2 bakery items at a bundled price).
+      •	Geo-targeted Promotions: Push Sunday offers to residential areas via SMS or app notifications.
+    
+      🛠️  3. Operational Tweaks
+      •	Staffing Alignment: Increase staff during 6–10 AM and on Fridays to reduce wait times and improve experience.
+      •	Inventory Planning: Ensure top-selling items (Barista Espresso, brewed teas) are always stocked during peak hours.
+      
+      📊 4. Order Size Strategy
+      •	Upgrade Nudges: Use digital screens or app prompts to suggest upgrading from Regular to Large for just $1 more.
+      •	Combo Incentives: “Large + Add-on” deals (e.g., Large Coffee + Pastry at a bundled price) to increase ticket size.
+      
 
 
 
