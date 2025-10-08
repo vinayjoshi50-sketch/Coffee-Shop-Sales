@@ -6,7 +6,6 @@ This project demonstrates a comprehensive Analysis of Sales of a Coffee shop cha
 
 Project Overview 🎯
 ---
-
 This Project Involves:
 1. Profiling and preparing raw data for Analysis.
 2. Exploring the data with Excel PivotTables.
