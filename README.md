@@ -45,14 +45,14 @@ Recommendations 💡
 ---
 
 ☕ 1. Capitalize on Peak Hours (6 AM – 10 AM)
-•	Introduce “Morning Rush Combos”: Bundle coffee + bakery at a slight discount to boost average order value and also to move bakery items.
-•	Express Lane for Regulars: Speed up service for frequent morning customers with pre-order or loyalty app features.
-•	Office Tie-ups: Offer subscription-based coffee delivery to nearby firms for their employees.
+  •	Introduce “Morning Rush Combos”: Bundle coffee + bakery at a slight discount to boost average order value and also to move bakery items.
+  •	Express Lane for Regulars: Speed up service for frequent morning customers with pre-order or loyalty app features.
+  •	Office Tie-ups: Offer subscription-based coffee delivery to nearby firms for their employees.
 
 📅 2. Weekend Optimization
-•	Friday Specials: Launch limited-time gourmet brews or seasonal flavors only on Fridays to drive excitement.
-•	Sunday Family Packs: Counter mall/theater competition by offering group deals (e.g., 4 drinks + 2 bakery items at a bundled price).
-•	Geo-targeted Promotions: Push Sunday offers to residential areas via SMS or app notifications.
+  •	Friday Specials: Launch limited-time gourmet brews or seasonal flavors only on Fridays to drive excitement.
+  •	Sunday Family Packs: Counter mall/theater competition by offering group deals (e.g., 4 drinks + 2 bakery items at a bundled price).
+  •	Geo-targeted Promotions: Push Sunday offers to residential areas via SMS or app notifications.
 
 🛠️  3. Operational Tweaks
 •	Staffing Alignment: Increase staff during 6–10 AM and on Fridays to reduce wait times and improve experience.
