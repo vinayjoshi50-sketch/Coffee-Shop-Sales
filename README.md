@@ -44,10 +44,10 @@ Also, Barista coffee and gourmet brewed coffee are the top contributors in the c
 Recommendations 💡   
 ---
 
-   ☕ 1. Capitalize on Peak Hours (6 AM – 10 AM)
-         * Introduce “Morning Rush Combos”: Bundle coffee + bakery at a slight discount to boost average order value and also to move bakery items.
-         * Express Lane for Regulars: Speed up service for frequent morning customers with pre-order or loyalty app features.
-         * Office Tie-ups: Offer subscription-based coffee delivery to nearby firms for their employees.
+☕ 1. Capitalize on Peak Hours (6 AM – 10 AM)
+      * Introduce “Morning Rush Combos”: Bundle coffee + bakery at a slight discount to boost average order value and also to move bakery items.
+      * Express Lane for Regulars: Speed up service for frequent morning customers with pre-order or loyalty app features.
+      * Office Tie-ups: Offer subscription-based coffee delivery to nearby firms for their employees.
 
 📅 2. Weekend Optimization
      *	Friday Specials: Launch limited-time gourmet brews or seasonal flavors only on Fridays to drive excitement.
