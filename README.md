@@ -5,6 +5,7 @@ Welcome to the Coffee Shop Sales Analysis repository! 🚀
 This project demonstrates a comprehensive Analysis of Sales of a Coffee shop chain with 3 locations in New York City. To better Understand purchase behaviour and streamline operations, transactional data is collected from Jan-June 2023.
 
 Project Overview 🎯
+---
 
 This Project Involves:
 1. Profiling and preparing raw data for Analysis.
