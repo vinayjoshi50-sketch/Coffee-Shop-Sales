@@ -13,13 +13,13 @@ This Project Involves:
 Objectives 🔍
 ---
 
-1.	How have Sales trended over time?
-2.	Which days of the week tend to be busiest, and why do you think that's the case?
-3.	What times of day tend to be most popular? And How Does the trend hold throughout the day?
-4.	Which products are sold most often? Which product drive the most revenue for the business?
-5.	Which Store leads in overall Sales & Footfall?
-6.	 Which Category has the highest sales and which Size is the most preferred among the customers?
-7.	What changes would you suggest in order to increase revenue? 
+* 	How have Sales trended over time?
+* 	Which days of the week tend to be busiest, and why do you think that's the case?
+*  What times of day tend to be most popular? And How Does the trend hold throughout the day?
+*  Which products are sold most often? Which product drive the most revenue for the business?
+*  Which Store leads in overall Sales & Footfall?
+* Which Category has the highest sales and which Size is the most preferred among the customers?
+* hat changes would you suggest in order to increase revenue? 
 
 
 
@@ -45,23 +45,23 @@ Recommendations 💡
 ---
 
 ☕ 1. Capitalize on Peak Hours (6 AM – 10 AM)
-* Introduce “Morning Rush Combos”: Bundle coffee + bakery at a slight discount to boost average order value and also to move bakery items.
-* Express Lane for Regulars: Speed up service for frequent morning customers with pre-order or loyalty app features.
- * Office Tie-ups: Offer subscription-based coffee delivery to nearby firms for their employees.
+      * Introduce “Morning Rush Combos”: Bundle coffee + bakery at a slight discount to boost average order value and also to move bakery items.
+      * Express Lane for Regulars: Speed up service for frequent morning customers with pre-order or loyalty app features.
+      * Office Tie-ups: Offer subscription-based coffee delivery to nearby firms for their employees.
 
 📅 2. Weekend Optimization
- *	Friday Specials: Launch limited-time gourmet brews or seasonal flavors only on Fridays to drive excitement.
- *	Sunday Family Packs: Counter mall/theater competition by offering group deals (e.g., 4 drinks + 2 bakery items at a bundled price).
- *	Geo-targeted Promotions: Push Sunday offers to residential areas via SMS or app notifications.
+     *	Friday Specials: Launch limited-time gourmet brews or seasonal flavors only on Fridays to drive excitement.
+     *	Sunday Family Packs: Counter mall/theater competition by offering group deals (e.g., 4 drinks + 2 bakery items at a bundled price).
+     *	Geo-targeted Promotions: Push Sunday offers to residential areas via SMS or app notifications.
 
 🛠️  3. Operational Tweaks
-*	Staffing Alignment: Increase staff during 6–10 AM and on Fridays to reduce wait times and improve experience.
-*	Inventory Planning: Ensure top-selling items (Barista Espresso, brewed teas) are always stocked during peak hours.
+    *	Staffing Alignment: Increase staff during 6–10 AM and on Fridays to reduce wait times and improve experience.
+    *	Inventory Planning: Ensure top-selling items (Barista Espresso, brewed teas) are always stocked during peak hours.
 
 📊 4. Order Size Strategy
-*	Upgrade Nudges: Use digital screens or app prompts to suggest upgrading from Regular to Large for just $1 more.
-*	Combo Incentives: “Large + Add-on” deals (e.g., Large Coffee + Pastry at a bundled price) to increase ticket size.
-
+    *	Upgrade Nudges: Use digital screens or app prompts to suggest upgrading from Regular to Large for just $1 more.
+    *	Combo Incentives: “Large + Add-on” deals (e.g., Large Coffee + Pastry at a bundled price) to increase ticket size.
+    
 
 
 
