@@ -23,7 +23,7 @@ Objectives 🔍
 * hat changes would you suggest in order to increase revenue? 
 
 
-Dashboard
+
 ![Coffee Shop Sales Dashboard](Coffee%20Shop%20Sales%20Dashboard.png)
 
 
